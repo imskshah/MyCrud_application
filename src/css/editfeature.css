@@ -1,0 +1,17 @@
+.formdata2
+{
+    width: 300px;
+    position: relative;
+    left: 35%;
+}
+
+.edithead
+{
+    margin-top: 70px;
+    margin-bottom: 20px;
+}
+
+.editinput:focus
+{
+    box-shadow: none;
+}

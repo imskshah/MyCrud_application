@@ -1,0 +1,19 @@
+.formdata
+{
+    width: 300px;
+    position: relative;
+    left: 35%;
+    margin-bottom: 20px;
+}
+
+.addhead
+{
+    
+    margin-top: 70px;
+    margin-bottom: 20px;
+}
+
+.addinput:focus
+{
+    box-shadow: none;
+}
